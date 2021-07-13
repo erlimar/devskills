@@ -1,5 +1,5 @@
-Desenvolvedor Front-End Sênior
-==============================
+Desenvolvedor Front-End Pleno
+=============================
 
 [Volte ao índice](README.md)
 
