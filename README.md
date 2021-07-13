@@ -25,4 +25,4 @@ Em cada categoria também dividimos os conhecimentos em:
 
 ## Front-End
 
-* [Sênior](frontend-senior.md)
+* [Pleno](frontend-pleno.md)
