@@ -44,7 +44,7 @@ Desenvolvedor .NET Pleno
   - Pull Request
   - Resolução de conflitos de código
 
-## Conhecimento desejável:
+## Desejável conhecimento em:
 
 * Uma das plataformas para gestão de projetos:
   - Azure DevOps
@@ -62,7 +62,7 @@ Desenvolvedor .NET Pleno
   - Java
   - PHP
 
-## Conhecimentos que surpreenderia
+## Surpreende com conhecimento em:
 
 * Uma outra linguagem
   - Perl
